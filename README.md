@@ -1,7 +1,5 @@
 # learn-php
 
----
-
 ## PHP Installation
 
 ---
